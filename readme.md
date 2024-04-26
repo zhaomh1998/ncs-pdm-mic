@@ -2,10 +2,12 @@
 Tested with NCS v2.3.0, nRF52840 DK (PCA10056)
 
 ### PDM Microphone Connection
-V -> VDD
-G -> GND
-CLK -> P0.03
-DIN -> P0.02
+| Microphone | nRF |
+| --- | ---- |
+| V   | VDD  |
+| G   | GND  |
+| CLK | P0.03|
+| DIN | P0.02|
 
 ### Getting Started
 - Setup NCS in vscode
